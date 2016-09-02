@@ -1,0 +1,28 @@
+
+public class New1 {
+
+	public static void main( String[] args ) { 
+        //declare variables here before we use them 
+		 	
+		int a, b , c, d, e, f ;
+			a = 98;
+	        b = 2;
+	        c = a + b ;
+	        System.out.println( "a is " + a + ", b is " + b );
+	        System.out.println( "a + b is " + c );
+	        d = a - b;
+	        System.out.println( "a - b is " + d );
+	        e = a * b;
+	        System.out.println( "a * b is " + e );
+	        e = a / b;
+	        System.out.println( "a / b is " + e );
+	        e = b / a;
+	        System.out.println( "b / a is " + e );
+	        e = a % b;
+	        System.out.println( "a % b is " + e );
+	        e = b % a;
+	        System.out.println( "b % a is " + e );
+	        
+		}
+}
+

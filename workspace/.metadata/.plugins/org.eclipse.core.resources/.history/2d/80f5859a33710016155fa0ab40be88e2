@@ -1,0 +1,14 @@
+
+public class New1 {
+
+	public static void main( String[] args ) { 
+        //declare variables here before we use them 
+		 	
+		int a, b , c, d, e, f ;
+			a = 5;
+	        b = 10;
+	        c = a + b ;
+	        
+		}
+}
+

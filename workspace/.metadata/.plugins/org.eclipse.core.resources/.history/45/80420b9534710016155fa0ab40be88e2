@@ -1,0 +1,19 @@
+
+public class New1 {
+
+	public static void main( String[] args ) { 
+        //declare variables here before we use them 
+		 	
+				float x, y;
+			 
+			 x = 3.1415f;
+			 y = 3.64f;
+			 
+			 System.out.println("pi is approximately " + x);
+			 System.out.println("My GPA was " + y);
+			 }
+			
+	
+		}
+
+
